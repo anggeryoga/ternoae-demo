@@ -1,0 +1,5 @@
+name = "ternoae"
+compatibility_date = "2024-05-23"
+main = "dist/server.js"
+workers_dev = true
+node_compat = true
